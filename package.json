@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "gulp-wrap-exports",
+      "/Users/paulkohlhoff/Projects/gamesense.web/gamesense_web/static/.npm"
+    ]
+  ],
+  "_from": "gulp-wrap-exports@latest",
+  "_id": "gulp-wrap-exports@0.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-wrap-exports",
+  "_npmUser": {
+    "email": "avenger7x13@gmail.com",
+    "name": "alexeyraspopov"
+  },
+  "_npmVersion": "1.4.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-wrap-exports",
+    "raw": "gulp-wrap-exports",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-wrap-exports/-/gulp-wrap-exports-0.3.0.tgz",
+  "_shasum": "7a50b4d0bde3450bb0113d0f4941d1743bea3738",
+  "_shrinkwrap": null,
+  "_spec": "gulp-wrap-exports",
+  "_where": "/Users/paulkohlhoff/Projects/gamesense.web/gamesense_web/static/.npm",
+  "author": {
+    "name": "Alexey Raspopov",
+    "url": "https://github.com/alexeyraspopov"
+  },
+  "bugs": {
+    "url": "https://github.com/alexeyraspopov/gulp-wrap-exports/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^2.2.14",
+    "map-stream": "^0.1.0"
+  },
+  "description": "Wrap CommonJS module in IIFE and create global variable",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7a50b4d0bde3450bb0113d0f4941d1743bea3738",
+    "tarball": "http://registry.npmjs.org/gulp-wrap-exports/-/gulp-wrap-exports-0.3.0.tgz"
+  },
+  "homepage": "https://github.com/alexeyraspopov/gulp-wrap-exports",
+  "keywords": [
+    "commonjs",
+    "exports",
+    "gulpplugin",
+    "wrap"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "alexeyraspopov",
+      "email": "avenger7x13@gmail.com"
+    }
+  ],
+  "name": "gulp-wrap-exports",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeyraspopov/gulp-wrap-exports.git"
+  },
+  "version": "0.3.0"
+}
